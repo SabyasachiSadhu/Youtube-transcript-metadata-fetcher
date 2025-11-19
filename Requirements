@@ -1,0 +1,9 @@
+gspread
+google-auth
+google-api-python-client
+youtube-transcript-api
+yt-dlp
+isodate
+spacy
+deepmultilingualpunctuation
+# if you used additional libs in your script, add them here
